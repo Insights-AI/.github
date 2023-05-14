@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Awesome-one-click-deployment</h1>
+<h1 align="center">Lower the threshold for using AI</h1>
 
 [Join Discord](https://discord.gg/h8sNt7fkA3) / [Buy Me a Coffee](https://www.buymeacoffee.com/elricliu)
 
