@@ -1,1 +1,0 @@
-Awesome-one-click-deployment
